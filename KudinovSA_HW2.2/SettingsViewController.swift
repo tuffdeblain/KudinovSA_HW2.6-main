@@ -21,7 +21,7 @@ class SettingsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        colorView.backgroundColor = changeColor(red: redSlider, green: greenSlider, blue: blueSlider)
+     //   colorView.backgroundColor = changeColor(red: redSlider, green: greenSlider, blue: blueSlider)
         colorView.layer.cornerRadius = 15
     }
     
