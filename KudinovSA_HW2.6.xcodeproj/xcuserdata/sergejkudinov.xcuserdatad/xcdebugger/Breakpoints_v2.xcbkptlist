@@ -20,5 +20,177 @@
             landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KudinovSA_HW2.2/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900 - 7276ef8774e1c5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KudinovSA_HW2_6.MainViewController.blueValue.getter : Swift.Double"
+                  moduleName = "KudinovSA_HW2.6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergejkudinov/Desktop/KudinovSA_HW2.2-main/KudinovSA_HW2.2/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900 - 292e3e8112faac1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KudinovSA_HW2_6.MainViewController.blueValue.setter : Swift.Double"
+                  moduleName = "KudinovSA_HW2.6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergejkudinov/Desktop/KudinovSA_HW2.2-main/KudinovSA_HW2.2/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900 - cda5c76b98a22206"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KudinovSA_HW2_6.MainViewController.blueValue.modify : Swift.Double"
+                  moduleName = "KudinovSA_HW2.6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergejkudinov/Desktop/KudinovSA_HW2.2-main/KudinovSA_HW2.2/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900 - d36b58d32bb40261"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KudinovSA_HW2_6.MainViewController.blueValue.modify : Swift.Double with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "KudinovSA_HW2.6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergejkudinov/Desktop/KudinovSA_HW2.2-main/KudinovSA_HW2.2/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900 - f6d6ee0254d1d95b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KudinovSA_HW2_6.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; KudinovSA_HW2_6.MainViewController"
+                  moduleName = "KudinovSA_HW2.6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergejkudinov/Desktop/KudinovSA_HW2.2-main/KudinovSA_HW2.2/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "35A2B6A9-1178-4813-AF3D-73C535E98900 - 9a655a4472b29986"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KudinovSA_HW2_6.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;KudinovSA_HW2_6.MainViewController&gt;"
+                  moduleName = "KudinovSA_HW2.6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergejkudinov/Desktop/KudinovSA_HW2.2-main/KudinovSA_HW2.2/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85BD07D5-DA34-4FC6-BF1C-CB062573D36C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KudinovSA_HW2.2/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32D8791C-9D30-40F4-AE1B-90B90222869D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KudinovSA_HW2.2/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64C9811F-4A77-4937-8AB9-B5957C5D9BB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KudinovSA_HW2.2/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18C641B3-F0EF-4FDB-8601-F7E664DE35D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KudinovSA_HW2.2/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

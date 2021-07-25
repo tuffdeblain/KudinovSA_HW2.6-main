@@ -58,16 +58,48 @@
 		C5418BBF269896D50050F285 /* KudinovSA_HW2.2 */ = {
 			isa = PBXGroup;
 			children = (
-				C5418BC0269896D50050F285 /* AppDelegate.swift */,
-				C5418BC2269896D50050F285 /* SceneDelegate.swift */,
-				C5418BC4269896D50050F285 /* SettingsViewController.swift */,
-				C5418BC6269896D50050F285 /* Main.storyboard */,
-				C5229F8226ADF33500045D04 /* MainViewController.swift */,
-				C5418BC9269896D60050F285 /* Assets.xcassets */,
-				C5418BCB269896D60050F285 /* LaunchScreen.storyboard */,
-				C5418BCE269896D60050F285 /* Info.plist */,
+				C59A37EF26AE1B1E00207360 /* Storyboards */,
+				C59A37EE26AE1AF900207360 /* ViewControllers */,
+				C59A37F226AE1B5100207360 /* Support */,
+				C59A37F126AE1B4700207360 /* Resources */,
 			);
 			path = KudinovSA_HW2.2;
+			sourceTree = "<group>";
+		};
+		C59A37EE26AE1AF900207360 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				C5229F8226ADF33500045D04 /* MainViewController.swift */,
+				C5418BC4269896D50050F285 /* SettingsViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		C59A37EF26AE1B1E00207360 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				C5418BCB269896D60050F285 /* LaunchScreen.storyboard */,
+				C5418BC6269896D50050F285 /* Main.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		C59A37F126AE1B4700207360 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C5418BC9269896D60050F285 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C59A37F226AE1B5100207360 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				C5418BC2269896D50050F285 /* SceneDelegate.swift */,
+				C5418BC0269896D50050F285 /* AppDelegate.swift */,
+				C5418BCE269896D60050F285 /* Info.plist */,
+			);
+			path = Support;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,7 +324,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 754D6797UK;
-				INFOPLIST_FILE = KudinovSA_HW2.2/Info.plist;
+				INFOPLIST_FILE = KudinovSA_HW2.2/Support/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,7 +343,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 754D6797UK;
-				INFOPLIST_FILE = KudinovSA_HW2.2/Info.plist;
+				INFOPLIST_FILE = KudinovSA_HW2.2/Support/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
